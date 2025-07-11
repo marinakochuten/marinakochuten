@@ -3,14 +3,16 @@
 I am an early career data scientist eager to apply my skills to ecology, conservation, and inclusivity in STEM. Outside of my work, you can find me cooking a fresh vegetarian meal, enjoying all things outdoors, and hanging with my pup Tahoma. Learn more on my personal website, [marinakochuten.github.io](https://marinakochuten.github.io).
 
 ## What I'm up to 
-Currently, I am a Masters student in Environmental Data Science [(MEDS)](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at UCSB’s Bren School of Environmental Science & Resource Management. 
+- 🎓 I am a recent graduate of [UCSB Bren School's Maters of Environmental Data Science (MEDS)](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) program. My capstone project supported the 2035 Initiative and the Community Labor Center, modeling clean energy job growth in California’s Central Coast to help ensure a just transition.
+- 🦪 This August, I’m joining the [Puget Sound Restoration Fund](https://restorationfund.org) as the Habitat Program Analyst, where I’ll use data to support restoration of Olympia oysters and bull kelp in the Puget Sound.
+
 
 <!--
 Check out some of my projects: ... ... ... 
 -->
 
 ## Education 
-- MEDS (expected June 2025) <- Environmental Data Science | UCSB Bren School of Environmental Science & Resource Management 
+- MEDS (2025) <- Master Environmental Data Science | UCSB Bren School of Environmental Science & Resource Management 
 - BS (2019) <- Environmental Science & Resource Management | UW Seattle
 
 
