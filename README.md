@@ -4,7 +4,7 @@ I am an early career data scientist eager to apply my skills to ecology, conserv
 
 ## What I'm up to 
 - 🎓 I am a recent graduate of [UCSB Bren School's Maters of Environmental Data Science (MEDS)](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) program. My capstone project supported the 2035 Initiative and the Community Labor Center, modeling clean energy job growth in California’s Central Coast to help ensure a just transition.
-- 🦪 This August, I’m joining the [Puget Sound Restoration Fund](https://restorationfund.org) as the Habitat Program Analyst, where I’ll use data to support restoration of Olympia oysters and bull kelp in the Puget Sound.
+- 🦪 Currently, I am working with [Puget Sound Restoration Fund](https://restorationfund.org), where I use data to support restoration of Olympia Oysters and Bull Kelp in the Puget Sound. 
 
 
 <!--
